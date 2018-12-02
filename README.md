@@ -10,3 +10,4 @@ que nos permiten graficar los datos que se generan en la simulación, las cuales
 El sistema a parte de cumplir con la simulación nos permite ver en una tabla los resultados de la simulación, así como la impresión en 
 papel de los resultados, y una visualización con gráficas de barras para una mejor presentación de los resultados.
 Los resultados son almacenados en un archivo en codificación UTF-8.
+Y como producto final se creó el ejecutable para que pueda ser portable y se pueda usar en maquinas que tengan la máquina virtual de java.
